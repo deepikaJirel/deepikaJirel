@@ -31,31 +31,11 @@ ur welcome ;)
 Eyyyy!!! <br />
 I am <b>Dipika Jirel</b> 
 
-I'm a guy who love develop new things 🖥️ <br />
-So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br />
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br />
-Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
 
 <!-- Bogota's weather table -->
 
 <h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
-<table align="center" style="width:50%">
-    <tr style="text-align:center">
-        <th>Weather</th>
-        <th>Temperature</th>
-        <th>Sunrise</th>
-        <th>Sunset</th>
-        <th>Humidity</th>
-    </tr>
-    <tr style="text-align:center">
-        <td><b>few clouds</b><img width="15" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;02n.png></td>
-        <td><b>16°C</b></td>
-        <td><b>05:49 AM</b></td>
-        <td><b>06:00 PM</b></td>
-        <td><b>77%</b></td>
-    </tr>
-</table>
 
 ### 🧐 More About Me:
 <table style="border: none;">
