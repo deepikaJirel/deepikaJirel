@@ -1,29 +1,7 @@
-<!-- 
-GIF SECTION
 
-If you wanna know how i made this gif
+<a href="https://github.com/deepikaJirel">![Dipika Profile GIF]</a>
 
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-after that i converter the video from mp4 to gif
-ur welcome ;) 
--->
-<a href="https://github.com/DavidsDvm">![DavidsDvm Profile GIF](./assets/profile_presentation.gif)</a>
 
-<!-- Social icons section -->
-<h1 align="center"> Social Media: </h1>
-  <p align="center">
-
-    <a href="https://www.linkedin.com/in/DavidsDvm">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
-    </a>
-    <a href="mailto:davids.dvm@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
-    </a>
-  </p>
-</h1>
-
-<hr>
 
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
@@ -33,9 +11,6 @@ I am <b>Dipika Jirel</b>
 
 <br/><br/> 
 
-<!-- Bogota's weather table -->
-
-<h2 align="center"> 🇨🇴 Bogota's Weather ⛅ </h2>
 
 ### 🧐 More About Me:
 <table style="border: none;">
@@ -43,28 +18,25 @@ I am <b>Dipika Jirel</b>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 I’m currently studying at **SENA**
+          🔭 I’m currently studying at **Wright State University**
         </li>
         <li>
-          🤝 I’m looking to collaborate on Open Source Proyects
+          🤝 I’m looking to collaborate on Open Source projects
         </li>
         <li>
-          🌱 I’m currently learning Django & NestJS; 
+          🌱 I’m currently learning Linux & Java; 
         </li>
         <li>
-          👨🏻‍💻 Most of my projects are available on [Github](https://github.com/DavidsDvm?tab=repositories)
+          👨🏻‍💻 I'll be working on two projects
         </li>
         <li>
-          💬 Ask me about anything tech related, I am happy to help (if you have questions with linux you can ask me🐧);
+          💬 Ask me about anything about myself. 
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/DavidsDvm/)
+          📫 Feel free to contact me on [LinkedIn]([https://www.linkedin.com/in/DavidsDvm/](https://www.linkedin.com/in/dipika-jirel-39a581309/))
         </li>
         <li>
-          🎷 When I am free, I like to play the Sax
-        </li>
-        <li>
-          📝 Checkout my [Page](https://www.davidsdvm.com/) 
+           When I am free, I like to dance and listen to music. 
         </li>
     </td>
     <td style="border: none;">
