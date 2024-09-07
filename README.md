@@ -26,14 +26,8 @@ I am <b>Dipika Jirel</b>
           💬 Ask me about anything about myself. 
         </li>
         <li>
-          📫 Feel free to contact me on [LinkedIn]([https://www.linkedin.com/in/DavidsDvm/](https://www.linkedin.com/in/dipika-jirel-39a581309/))
-        </li>
-        <li>
            When I am free, I like to dance and listen to music. 
         </li>
-    </td>
-    <td style="border: none;">
-      <img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
     </td>
   </tr>
 </table>
